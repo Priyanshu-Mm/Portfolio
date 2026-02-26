@@ -9,15 +9,13 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 ## 🚀 Live Demo
 
 🔗 **Website:**  
-https://your-live-link-here.com  
+   https://priyans-portfolio.netlify.app/  
 
 ---
 
 ## 🛠 Tech Stack
 
-- React.js  
-- JavaScript (ES6+)  
-- Tailwind CSS  
+- React.js      
 - EmailJS (Contact Form Integration)  
 - HTML5 & CSS3  
 
