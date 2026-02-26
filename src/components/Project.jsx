@@ -13,7 +13,7 @@ const projects = [
   techStack: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
   live: '', // Add live link if deployed
   github: 'https://github.com/Priyanshu-Mm/job-portal-mern',
-  screenshot: placeholder1,
+  screenshot: placeholder2,
   },
   {
   title: 'ApnaPaytm',
@@ -23,7 +23,7 @@ const projects = [
   techStack: ['React', 'Tailwind CSS'],
   live: 'https://priyanshu-digipay.netlify.app/',
   github: 'https://github.com/Priyanshu-Mm/ApnaPaytm',
-  screenshot: placeholder2,
+  screenshot: placeholder1,
 },
   {
   title: 'Grow My Therapy Clone',

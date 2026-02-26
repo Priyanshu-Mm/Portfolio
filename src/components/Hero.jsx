@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import '../styles/Hero.css'
-import placeholder from '../assets/PriyanshuResume.pdf'
+import placeholder from '../assets/PriyanshuSoftwareDeveloperResume.pdf'
 
 const introText =
 "Hi 👋 I’m Priyanshu Maurya — a Software Developer crafting responsive web experiences with React and JavaScript, while continuously leveling up my backend and DSA skills."
